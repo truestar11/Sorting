@@ -1,5 +1,6 @@
 public class NewSort {
 	
+	
 	void sort(int arr[]) {
 		int n = arr.length;
 		for (int i = 1; i < n; ++i) {
